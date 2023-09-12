@@ -4,5 +4,11 @@ home: {
     colors: ["Black", "White"],
     players:"Alan Anderson",
 },
+away: {
+    teamName: "Charlotte Hornets",
+    colors: ["Turquoise", "Purple"],
+    players: "Jeff Adrien",
+}
 } 
+   
 console.log(gameObject);
